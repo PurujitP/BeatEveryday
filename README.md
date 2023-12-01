@@ -25,6 +25,6 @@ Boost your productivity with **BeatEveryDay**, the lightweight and intuitive Chr
 
 ## Why BeatEveryDay?
 
-QuickTodo is not just a task manager; it's a productivity companion designed to make your life simpler. With its minimalist design and powerful features, you can focus on what matters most while knowing your tasks are well-organized and easily accessible.
+BeatEveryday is not just a task manager; it's a productivity companion designed to make your life simpler. With its minimalist design and powerful features, you can focus on what matters most while knowing your tasks are well-organized and easily accessible.
 
 Install BeatEveryDay today and experience the joy of a clutter-free to-do list!
