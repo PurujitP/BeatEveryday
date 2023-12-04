@@ -1,0 +1,18 @@
+body {
+    padding: 4%;
+    width: 400px;
+    background-color: #ECF8F9;
+}
+
+li{
+    margin: 20px 0;
+}
+
+.btn-dark{
+    margin: 0 2px;
+    background-color: #068DA9;
+}
+
+.button{
+    float: right;
+}
